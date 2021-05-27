@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="470px" height="360px" viewBox="0 0 470 360" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Rectangle</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M21.8818954,8.39068678 C92.9212636,2.79689559 163.960632,0 235,0 C306.073573,0 377.147146,2.7995896 448.220719,8.39876881 L448.220719,8.39876939 C455.927005,9.0058709 462.09725,15.0356967 462.881563,22.7259673 C467.627188,69.2573437 470,119.471495 470,173.368421 C470,227.941333 467.567294,282.514244 462.701882,337.087156 L462.701885,337.087156 C462.008569,344.863737 455.803864,351.004399 448.020508,351.616996 C377.013672,357.205665 306.006836,360 235,360 C164.019601,360 93.039202,357.207746 22.0588029,351.623238 L22.0588028,351.623239 C14.245529,351.008516 8.02765462,344.824599 7.37015422,337.014809 C2.45671807,278.65301 0,224.104214 0,173.368421 C0,123.184162 2.40359581,72.9999033 7.21078743,22.8156444 L7.21078718,22.8156444 C7.9514461,15.0835999 14.1384267,9.00042401 21.8818954,8.39068678 Z" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="470" height="360" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="PC" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-dasharray="6">
+        <g id="Бабочкарий" transform="translate(-324.000000, -7702.000000)" stroke="#990e94" stroke-width="3">
+            <g id="Гарантии-и-безопасность" transform="translate(0.000000, 7325.000000)">
+                <g id="Привет,-мы-Денис-и-Н-2" transform="translate(324.000000, 377.000000)">
+                    <use id="Rectangle" mask="url(#mask-2)" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="550px" height="380px" viewBox="0 0 550 380" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Rectangle</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#982BBB" offset="0%"></stop>
+            <stop stop-color="#C922FF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M23.2889066,48.0222107 C107.192604,42.0074036 191.096302,39 275,39 C358.941808,39 442.883615,42.0101362 526.825423,48.0304085 L526.825423,48.030409 C534.507864,48.5813905 540.707496,54.5277385 541.578268,62.1805313 C547.192756,111.523546 550,164.796702 550,222 C550,279.869121 547.127025,337.738242 541.381076,395.607364 L541.381073,395.607363 C540.611466,403.358303 534.37207,409.428834 526.602936,409.985541 C442.735291,415.99518 358.867645,419 275,419 C191.161782,419 107.323564,415.997289 23.4853453,409.991866 L23.4853452,409.991867 C15.682502,409.43294 9.42790517,403.313828 8.69826089,395.525094 C2.8994203,333.624208 0,275.78251 0,222 C0,168.76107 2.84110762,115.52214 8.52332285,62.2832101 L8.5233258,62.2832104 C9.34522234,54.5825355 15.5643181,48.5759635 23.2889066,48.0222107 Z" id="path-2"></path>
+        <mask id="mask-3" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="550" height="380" fill="white">
+            <use xlink:href="#path-2"></use>
+        </mask>
+    </defs>
+    <g id="PC" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-dasharray="6">
+        <g id="Бабочкарий" transform="translate(-385.000000, -4794.000000)" fill="#FFFFFF" stroke="#990e94" stroke-width="3">
+            <g id="Эксперты-о-бабочкарии-Флай-Флай" transform="translate(2.000000, 4629.000000)">
+                <g id="Group-32" transform="translate(273.000000, 126.000000)">
+                    <g id="Rectangle-4" transform="translate(110.000000, 0.000000)">
+                        <g id="Group">
+                            <use id="Rectangle" mask="url(#mask-3)" xlink:href="#path-2"></use>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

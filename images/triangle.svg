@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="36px" viewBox="0 0 28 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>triangle</title>
+    <desc>Created with Sketch.</desc>
+    <g id="triangle" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(0.000000, -1.000000)">
+            <path d="M14.6507914,1.2407434 L28,12.6829222 L0,12.6829222 L13.3492086,1.2407434 C13.7236984,0.919752201 14.2763016,0.919752201 14.6507914,1.2407434 Z" id="Triangle-Copy-2" fill="#FFFFFF" transform="translate(14.000000, 6.682922) scale(1, -1) translate(-14.000000, -6.682922) "></path>
+            <path d="M14.6507914,13.5578212 L28,25 L0,25 L13.3492086,13.5578212 C13.7236984,13.23683 14.2763016,13.23683 14.6507914,13.5578212 Z" id="Triangle-Copy-2" fill="#FFFFFF"></path>
+            <path d="M14.6507914,25.5578212 L28,37 L0,37 L13.3492086,25.5578212 C13.7236984,25.23683 14.2763016,25.23683 14.6507914,25.5578212 Z" id="Triangle-Copy-2" fill="#212223"></path>
+        </g>
+    </g>
+</svg>
